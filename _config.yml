@@ -7,7 +7,7 @@ url: https://sinuotan.github.io/
 # Owner/author information
 owner:
   name: Sinuo Tan
-  avatar: hanlin.jpg
+  avatar: whu.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 2022301132022@whu.edu.cn
   cv: https://sinuotan.github.io/file/CV-SnowTan.pdf
@@ -38,16 +38,16 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Awards
+    # url: /awards/
+  # - title: Hobbies
+    # url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #  url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Hubei
@@ -79,7 +79,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: Snow Tan
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
