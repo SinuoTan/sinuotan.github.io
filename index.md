@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://sinuotan.github.io/sinuotan.jpg" class="floatpic">
+<img src="https://sinuotan.github.io/snow.jpg" class="floatpic">
 
 Here is **Sinuo Tan (Snow, 谭思诺)**.<br>
 
