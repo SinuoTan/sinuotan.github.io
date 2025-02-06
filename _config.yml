@@ -8,12 +8,13 @@ url: https://github.com/SinuoTan
 owner:
   name: Sinuo Tan
   avatar: sinuotan.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+  # bio: Only words can fulfill this role, proclaiming that life was once present.
+  #Comment out url when working locally to resolve base urls correctly.
   email: 2022301132022@whu.edu.cn
   cv: https://sinuotan.github.io/file/CV-SnowTan.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  github: https://github.com/SinuoTan
+  github: SinuoTan
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # bilibili: 594030035
